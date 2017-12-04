@@ -8,17 +8,23 @@
 
 ## Contents
 - [Features](#features)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#sontributing)
+- [Releases](#releases)
 - [License](#license)
 
 ## Features
+
+## Prerequisites
 
 ## Installation
 
 ## Usage
 
 ## Contributing
+
+## Releases
 
 ## License
